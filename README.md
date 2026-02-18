@@ -8,7 +8,9 @@
 - **Backend (Express) default port:** 3001
 
 🔗 **Live Demo:**  
-[Click here to view the deployed app](https://your-demo-url.vercel.app/)
+[Click here to view the deployed app](https://fintech-dashboard-theta.vercel.app/)
+
+_The API runs on Render’s free tier and may take 30–60 seconds to respond after idle; the page will load once it’s awake._
 
 ## Project Specifications
 
